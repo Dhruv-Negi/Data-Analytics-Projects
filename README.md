@@ -1,6 +1,8 @@
 Welcome to my data analytics projects repository! Here, I share various projects related to Data analytics from start to end. Feel free to explore, use, and contribute to these projects.
 
 Projects Overview
+Fraud Transaction Detection Model
+
 Stock Price Forecasting with ARIMA and Plotly
 
 iPhone Sales Analysis with Plotly
