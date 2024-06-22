@@ -2,6 +2,8 @@ Welcome to my data analytics projects repository! Here, I share various projects
 
 Projects Overview
 
+COVID 19 Data analysis using Seaborn
+
 Fraud Transaction Detection Model
 
 Stock Price Forecasting with ARIMA and Plotly
