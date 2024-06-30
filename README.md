@@ -2,6 +2,8 @@ Welcome to my data analytics projects repository! Here, I share various projects
 
 Projects Overview
 
+HR analytics model
+
 Telecom Churn data analysis
 
 COVID 19 Data analysis using Seaborn
